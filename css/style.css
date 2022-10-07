@@ -4,13 +4,13 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.button > [type] {
+.buttons button {
   background-color: #f5f4fa;
   color: #212121;
   cursor: pointer;
 }
-.button > [type]:hover,
-.button > [type]:focus {
+.buttons button:hover,
+.buttons button:focus {
   background-color: #2196f3;
   color: #ffffff;
 }
